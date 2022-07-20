@@ -1,4 +1,4 @@
-#TSF-GRIP-Prediction-Using-Supervised-Learning
+TSF-GRIP-Prediction-Using-Supervised-Learning
 This is an internship task of web development intern under GRIP JUNE 2021 of The Sparks Foundation Company.
 
 Introduction
